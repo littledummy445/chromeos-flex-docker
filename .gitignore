@@ -1,0 +1,8 @@
+# Ignore the persistent storage directory containing the large virtual disk
+chromeos/
+*.img
+*.qcow2
+
+# Logs and temporary files
+*.log
+.DS_Store
