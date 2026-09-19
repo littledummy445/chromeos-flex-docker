@@ -25,6 +25,8 @@ docker run -it --rm --name chromeos -e "VERSION=stable" -p 8006:8006 --device=/d
 1. Open your browser and go to port `8006` (or check your Codespaces forwarded ports tab).
 2. Follow the setup wizard to complete initialization.
 
+3. [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=littledummy445/chromeos-flex-docker)
+
 ---
 
 ## Resource Note
