@@ -1,5 +1,11 @@
 # ChromeOS Flex Docker Emulator
 
+h1 align="center">ChromeOS Flex in Docker<br />
+<div align="center">
+<a href="https://github.com/littledummy445/chromeos-flex-docker/"><img src="https://github.com/dockur/chromeos/raw/master/.github/logo.png" title="Logo" style="max-width:100%;" width="100" /></a>
+</div>
+<div align="center">
+
 Run a full ChromeOS Flex environment inside a Docker container with QEMU and KVM acceleration, accessible right through your browser.
 
 ## Features
