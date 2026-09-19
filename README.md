@@ -1,6 +1,6 @@
 # ChromeOS Flex Docker Emulator
 
-<h2 align="center">ChromeOS Flex in Docker<br />
+<h3 align="center">ChromeOS Flex in Docker<br />
 <div align="center">
 <a href="https://github.com/littledummy445/chromeos-flex-docker/"><img src="https://github.com/dockur/chromeos/raw/master/.github/logo.png" title="Logo" style="max-width:100%;" width="100" /></a>
 </div>
